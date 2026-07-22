@@ -28,7 +28,7 @@ Where:
   My state-space model simulates the heat transfer system of a house using thermal resistors, thermal capacitors, and heat sources:
 
   
-<img width="970" height="1292" alt="house+thermic modelling" src="https://github.com/user-attachments/assets/20b610ac-7816-49e4-bfca-1a3cc5198fbb" />
+<img width="500" height="650" alt="house+thermic modelling" src="https://github.com/user-attachments/assets/20b610ac-7816-49e4-bfca-1a3cc5198fbb" />
 
 
 The main.m script plots both the simulated output and the measured signal, and calculates the error between them.
